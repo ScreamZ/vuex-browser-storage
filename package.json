@@ -1,0 +1,39 @@
+{
+  "name": "vuex-browser-storage",
+  "version": "0.1.0",
+  "description": "Make your application state living & consistent between application cycles",
+  "main": "./vuex-browser-storage.min.js",
+  "author": "Andréas \"ScreamZ\" Hanss",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/ScreamZ/vuex-browser-storage",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ScreamZ/vuex-browser-storage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ScreamZ/vuex-browser-storage/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-stage-2": "^6.18.0"
+  },
+  "keywords": [
+    "vuex",
+    "state",
+    "management",
+    "vuejs",
+    "Vue2",
+    "vue",
+    "localStorage",
+    "sessionStorage",
+    "indededDb"
+  ]
+}
